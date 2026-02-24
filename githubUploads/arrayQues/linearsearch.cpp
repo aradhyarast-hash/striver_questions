@@ -18,6 +18,5 @@ int main(){
     cin >> target;
     cout << linearSearch(vec, target) << endl;
     
-    
    return 0;
 }
